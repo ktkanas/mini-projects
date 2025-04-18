@@ -1,13 +1,38 @@
-# 🏛️ Roman Numeral Converter
+# 🚀 Mini Projects Collection
 
-A simple Python script that converts Roman numerals to integers.
+Welcome to the **Mini Projects** repository – a curated collection of beginner-friendly, practical coding projects built while learning and exploring new technologies. Each project is self-contained in its own folder and focuses on solving real-world problems in a simple and understandable way.
 
-## 💡 Features
+## 🔍 Why This Repo?
 
-- Supports standard Roman numerals
-- Command-line input and result display
+Whether you're a beginner learning to code or a developer brushing up on fundamentals, these projects provide hands-on practice with Python, JavaScript, and more. This is a growing collection that evolves with my learning journey.
 
-## 🚀 How to Run
+## 📁 Projects Included
 
-```bash
-python romannumeralconverter.py
+### 1. [Roman Numeral Converter](./roman-numeral-converter)
+Convert integers to Roman numerals using Python. A great exercise in control flow, conditionals, and logic implementation.
+
+<!-- Future projects can go here -->
+<!--
+### 2. [Project Name](./folder-name)
+Short one-liner about what it does.
+-->
+
+## 💡 Goals of This Repository
+
+- Build a strong foundation in programming
+- Practice clean code and modular project structure
+- Make learning visible through simple, useful projects
+- Create a portfolio of coding examples for job interviews or GitHub profile
+
+## 🧰 Tech Stack
+
+- Python (Beginner to Intermediate Projects)
+- JavaScript (Coming Soon)
+- HTML/CSS (Coming Soon)
+
+## 🛠️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ktkanas/mini-projects.git
+   cd mini-projects
